@@ -205,19 +205,19 @@ False
 Asymmetrical Meters
 -------------------
 
-Asymmetrical meters represent meters that can't be divided into parts of two. is_assymetrical test whether this is true or not.
+Asymmetrical meters represent meters that can't be divided into parts of two. is_asymmetrical test whether this is true or not.
 
 
 
->>> meter.is_assymetrical((3, 4))
+>>> meter.is_asymmetrical((3, 4))
 True
->>> meter.is_assymetrical((5, 4))
+>>> meter.is_asymmetrical((5, 4))
 True
->>> meter.is_assymetrical((7, 4))
+>>> meter.is_asymmetrical((7, 4))
 True
->>> meter.is_assymetrical((4, 4))
+>>> meter.is_asymmetrical((4, 4))
 False
->>> meter.is_assymetrical((6, 4))
+>>> meter.is_asymmetrical((6, 4))
 False
 
 
