@@ -205,7 +205,7 @@ False
 Asymmetrical Meters
 -------------------
 
-Asymmetrical meters represent meters that can't be divided into parts of two. is_asymmetrical test whether this is true or not.
+Asymmetrical meters represent meters that can't be divided into parts of two. ``is_asymmetrical`` tests whether this is true or not.
 
 
 
